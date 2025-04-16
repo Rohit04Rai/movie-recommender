@@ -22,8 +22,9 @@ This is a simple Movie Recommendation System built using Python and Streamlit. I
 ## 📂 Dataset
 
 Used two datasets:
-- `movies.csv`
-- `credits.csv`
+- [movies.csv](./movies.csv): Contains movie-level information such as title, genres, etc.
+- [credits.csv](./credits.csv): Contains information about cast and crew.
+
 
 These datasets contain information about movies, genres, keywords, cast, and crew.
 
@@ -41,8 +42,10 @@ These datasets contain information about movies, genres, keywords, cast, and cre
     streamlit run app.py
 
 ## 👨‍💻 Author
-Rohit Kumar Rai
-📧 Email: er.rohitrai87@gmail.com
-🔗 LinkedIn: linkedin.com/in/rohit-kumar-rai-04dec
+
+Rohit Kumar Rai  
+📧 Email: [er.rohitrai87@gmail.com](mailto:er.rohitrai87@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/rohit-kumar-rai-04dec](https://www.linkedin.com/in/rohit-kumar-rai-04dec)  
 🎓 Education: B.Tech in Computer Science Engineering | MBA in Business Analytics
+
 
