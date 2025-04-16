@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+nltk
+streamlit
+
+Run This Command in Terminal (VS Code ya PowerShell)
+streamlit run "address_of_the_folder/app.py"
