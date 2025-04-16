@@ -22,9 +22,13 @@ This is a simple Movie Recommendation System built using Python and Streamlit. I
 ## 📂 Dataset
 
 Used two datasets:
-- [movies.csv](./movies.csv): Contains movie-level information such as title, genres, etc.
-- [credits.csv](./credits.csv): Contains information about cast and crew.
 
+The following compressed datasets were used for this project:
+
+- [movies.csv.zip](./movies.csv.zip): Contains movie-level information such as titles, genres, etc.
+- [credits.csv.zip](./credits.csv.zip): Contains information about cast and crew.
+
+> ⚠️ **Note:** After downloading, please extract the ZIP files to access the original `.csv` files.
 
 These datasets contain information about movies, genres, keywords, cast, and crew.
 
